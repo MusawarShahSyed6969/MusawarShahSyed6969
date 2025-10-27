@@ -1,7 +1,7 @@
 <!-- Banner or animated GIF can be placed here -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://camo.githubusercontent.com/d59ead3b1ce2569e46d86904a385e1d0d85815aa11407b7e998d3b446098f858/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236746e333361695469316a6b6c3648362f67697068792e676966" alt="Typing 
-</p>
+</p> -->
 
 ---
 
