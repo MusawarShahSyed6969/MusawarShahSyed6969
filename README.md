@@ -1,6 +1,6 @@
 <!-- Banner or animated GIF can be placed here -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Musawar+Shah+Syed!;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;AWS+%7C+Java+%7C+C%2B%2B+Lover;I+Live+in+the+System+You+Use+💻" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com/?lines=Hi%2C+I%27m+Musawar+Shah+Syed!;Full+Stack+Web+Developer;MERN+Stack+Enthusiast;AWS+%7C+Java+%7C+C%2B%2B+Lover;I+Live+in+the+System+You+Use+💻](https://camo.githubusercontent.com/d59ead3b1ce2569e46d86904a385e1d0d85815aa11407b7e998d3b446098f858/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236746e333361695469316a6b6c3648362f67697068792e676966)" alt="Typing SVG" />
 </p>
 
 ---
