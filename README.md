@@ -40,7 +40,7 @@
 ### 🌟 Featured Project
 
 🛠️ **E-commerce Website**  
-> _Currently in development. Stay tuned for the launch!_
+https://musawarecommerce.netlify.app/
 
 ---
 
